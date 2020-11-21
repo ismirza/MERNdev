@@ -1,2 +1,2 @@
 # MERNdev
-This is an application that will be created with MERN full stack development.
+This a project that involves MERN full stack development. 
